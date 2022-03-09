@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentCanteenFood", "AssignmentCanteenFood.csproj", "{BE7EE9B6-3D3E-4EA4-8BEE-AC2762DE2076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "..\UnitTestProject2\UnitTestProject2.csproj", "{3A6872CF-2AB2-4C82-8EAA-398074D70A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7EE9B6-3D3E-4EA4-8BEE-AC2762DE2076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7EE9B6-3D3E-4EA4-8BEE-AC2762DE2076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7EE9B6-3D3E-4EA4-8BEE-AC2762DE2076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7EE9B6-3D3E-4EA4-8BEE-AC2762DE2076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6872CF-2AB2-4C82-8EAA-398074D70A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6872CF-2AB2-4C82-8EAA-398074D70A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6872CF-2AB2-4C82-8EAA-398074D70A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6872CF-2AB2-4C82-8EAA-398074D70A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7F092C-550E-44F7-B232-5E2B8F992B04}
+	EndGlobalSection
+EndGlobal

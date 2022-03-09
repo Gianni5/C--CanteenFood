@@ -1,0 +1,30 @@
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.exe.config
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.exe
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.pdb
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csprojAssemblyReference.cache
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.Form1.resources
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.Properties.Resources.resources
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csproj.GenerateResource.cache
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csproj.CoreCompileInputs.cache
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.exe
+C:\Users\Sander\Desktop\Giovanni Canteen\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.pdb
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.exe.config
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.exe
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.pdb
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csprojAssemblyReference.cache
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.Form1.resources
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.Properties.Resources.resources
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csproj.GenerateResource.cache
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.exe
+C:\Users\Giovanni\source\repos\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.pdb
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.exe.config
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.exe
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\bin\Debug\AssignmentCanteenFood.pdb
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csprojAssemblyReference.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.Form1.resources
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.Properties.Resources.resources
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csproj.GenerateResource.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.csproj.CoreCompileInputs.cache
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.exe
+C:\Users\giova\Desktop\TAFE Diploma\C#\C# certificate 4\C# certificate 4\AssignmentCanteenFood\obj\Debug\AssignmentCanteenFood.pdb
